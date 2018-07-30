@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  Gurlabe Dhaliwal
+  </br>
+x amount of results <---- not sure 
+  <body>
+    <script src="https://wzrd.repl.it/bundle/jquery"></script><script src="index.js"></script>
+    <h2> Results <b  class="pinkFont" id="myname"</b> </h2>
+    <br />
+  
+    Titles 
+    </br>
+
+    <ul id="#titles">
+      <li> <a href="https://learn.galvanize.com/content/gSchool/fs-precourse/learn/html-images/hackers.jpg">(xxxx) Hackers</a></li>
+      <li> <a href="https://learn.galvanize.com/content/gSchool/fs-precourse/learn/html-images/2000.jpg">(xxx) 2000 </a></li>
+      <li> <a href="https://learn.galvanize.com/content/gSchool/fs-precourse/learn/html-images/frontline.jpg">(xxxx) Frontline<a /></li>
+    </ul>
+
+
+
+
+
+    <br />
+  Related Actors
+  </br>
+  
+  <img src =' https://learn.galvanize.com/content/gSchool/fs-precourse/learn/html-images/amyacker.jpg ' height ='100 ' width ='100'>
+
+
+    <ul class="pinkFont">
+         <li><a href="https://www.imdb.com/name/nm3216408/">Amy Acker </a>
+         
+         
+         </li>
+<img src =' https://learn.galvanize.com/content/gSchool/fs-precourse/learn/html-images/amyacker.jpg ' height ='100 ' width ='100'>
+
+
+      <a href="https://www.imdb.com/name/nm3216408/">Dave Van Acker</a></li><img src =' ' height ='100 ' width ='100'>
+      <li>
+<img src = 'https://learn.galvanize.com/content/gSchool/fs-precourse/learn/html-images/amyacker.jpg ' =>
+        
+        <a href="https://www.imdb.com/name/nm0004983/">Buddy Hacket </a></li>
+    </ul>
+    <br />
+<ol start="1">
+  <li>D, G, R, W </li>
+  <li> CrackerJack Entertainment </li>
+  <li>Bleeker Street Media </li>
+</ol>
+<table>
